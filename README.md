@@ -24,8 +24,8 @@
 
 ## Description
 
-CRUD -  NestJS 
-URL HEROKU: https://code-drops-heroku-henrique.herokuapp.com/api/
+crud de usuário em  NestJS 
+url para acessar pelo heroku: https://code-drops-heroku-henrique.herokuapp.com/api/
 
 ## Installation
 
