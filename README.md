@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+CRUD -  NestJS 
+URL HEROKU: https://code-drops-heroku-henrique.herokuapp.com/api/
 
 ## Installation
 
